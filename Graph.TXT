@@ -1,0 +1,58 @@
+dustbowlkinng412@DESKTOP-05RPU5V MINGW64 /e/HomeWork2 (master)
+$ git log --graph --all
+*   commit f4e1b898b3e71dd2ff89cba7864e42471c496ed5 (HEAD -> master)
+|\  Merge: c4b6054 6c456e4
+| | Author: miserbist <miserbist412@gmail.com>
+| | Date:   Thu Sep 24 23:36:26 2026 +0300
+| |
+| |     FinalConflict1
+| |
+| * commit 6c456e4f7ff00e98b672a9e9c7d0a8f54e103a7f (New1)
+| | Author: miserbist <miserbist412@gmail.com>
+| | Date:   Thu Sep 24 23:34:31 2026 +0300
+| |
+| |     new1Commit2
+| |
+* | commit c4b6054e68e9b4f937ce9147f78d900af555e738
+| | Author: miserbist <miserbist412@gmail.com>
+| | Date:   Thu Sep 24 23:35:38 2026 +0300
+| |
+| |     masterCommit2
+| |
+* | commit c34fb3f8347a7ac11d5afbb973d03fdacbad26ce
+|/  Author: miserbist <miserbist412@gmail.com>
+|   Date:   Thu Sep 24 23:33:44 2026 +0300
+|
+|       masterCommit1
+|
+* commit 8df4ad22e4ec7dd85186533bff5aef2e38b82459
+:
+*   commit f4e1b898b3e71dd2ff89cba7864e42471c496ed5 (HEAD -> master)
+|\  Merge: c4b6054 6c456e4
+| | Author: miserbist <miserbist412@gmail.com>
+| | Date:   Thu Sep 24 23:36:26 2026 +0300
+| |
+| |     FinalConflict1
+| |
+| * commit 6c456e4f7ff00e98b672a9e9c7d0a8f54e103a7f (New1)
+| | Author: miserbist <miserbist412@gmail.com>
+| | Date:   Thu Sep 24 23:34:31 2026 +0300
+| |
+| |     new1Commit2
+| |
+* | commit c4b6054e68e9b4f937ce9147f78d900af555e738
+| | Author: miserbist <miserbist412@gmail.com>
+| | Date:   Thu Sep 24 23:35:38 2026 +0300
+| |
+| |     masterCommit2
+| |
+* | commit c34fb3f8347a7ac11d5afbb973d03fdacbad26ce
+|/  Author: miserbist <miserbist412@gmail.com>
+|   Date:   Thu Sep 24 23:33:44 2026 +0300
+|
+|       masterCommit1
+|
+* commit 8df4ad22e4ec7dd85186533bff5aef2e38b82459
+  Author: miserbist <miserbist412@gmail.com>
+  Date:   Thu Sep 24 23:31:47 2026 +0300
+:
